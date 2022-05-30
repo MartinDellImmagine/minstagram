@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    padding: 0.5em;
+    justify-content: space-between;
+    background-color: lightgray;
+    border-bottom: black 1px solid ;
+}
+
+
+.iconos{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
